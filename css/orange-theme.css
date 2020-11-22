@@ -1,0 +1,35 @@
+.about h1 span,
+.about h2 span,
+.features .feat span.glyphicon,
+.testimonials .carousel .item span,
+.statistics .stat:hover,
+.footer h3,
+.footer .copyright span,
+.navbar-brand span,
+.options-box i {
+    color: #F44336;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.contact-us form .btn-danger,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider,
+.carousel.head .carousel-indicators .active,
+.scroll-top {
+    background-color: #F44336;
+}
+
+.testimonials .carousel-indicators li.active {
+    border: 3px solid #F44336;
+}
+
+.contact-us form .btn-danger {
+    border-color: #F44336;
+}
+
+.dropdown-menu {
+    border-top: 3px solid #F44336;
+}
